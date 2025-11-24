@@ -1,1 +1,1 @@
-Sistema completo de Xadrez desenvolvido em C. Implementa lógica de validação de movimentos, regras especiais, matrizes e encapsulamento de peças.
+Implementação do jogo Batalha Naval com lógica progressiva de dificuldade. Demonstra domínio de manipulação de arrays multidimensionais e controle de fluxo em C.
